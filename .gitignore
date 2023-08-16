@@ -1,5 +1,5 @@
 # Miscellaneous
-*.html
+./web/index.html
 *.env
 *.class
 *.log
