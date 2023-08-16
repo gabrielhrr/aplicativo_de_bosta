@@ -1,4 +1,5 @@
 # Miscellaneous
+*.html
 *.env
 *.class
 *.log
